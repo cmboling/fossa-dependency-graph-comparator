@@ -9,7 +9,7 @@ manifest locations.
 
 ## CSV Format
 
-The script expects CSV data with the following columns:
+The script expects CSV data with the following *columns*:
 
 ```csv
 locator, createdAt, data
