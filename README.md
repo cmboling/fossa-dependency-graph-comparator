@@ -12,7 +12,7 @@ manifest locations.
 The script expects CSV data with the following columns:
 
 ```csv
-locator,createdAt,data
+locator, createdAt, data
 ```
 Where:
 - locator: Project locator string (e.g., custom+27932/test$sha256:7167ec...)
