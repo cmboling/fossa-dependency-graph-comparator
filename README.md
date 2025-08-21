@@ -1,4 +1,6 @@
 # CSV Dependency Graph Comparator
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcmboling%2Ffossa-dependency-graph-comparator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcmboling%2Ffossa-dependency-graph-comparator?ref=badge_shield)
+
 
 A Python script that analyzes FOSSA CLI dependency graph data from CSV format and groups projects with identical dependency graphs.
 
@@ -113,3 +115,7 @@ SUMMARY STATISTICS
 
 - Python 3.6+
 - Standard library modules only (json, csv, hashlib, datetime)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcmboling%2Ffossa-dependency-graph-comparator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcmboling%2Ffossa-dependency-graph-comparator?ref=badge_large)
