@@ -1,6 +1,6 @@
 # FOSSA CSV Dependency Graph Comparator
 
-A Python script that analyzes FOSSA CLI dependency graph data from CSV format and groups projects with identical dependency graphs.
+A script that analyzes FOSSA CLI dependency graph data from CSV format and groups projects with identical dependency graphs.
 
 ## Overview
 
